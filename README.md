@@ -8,3 +8,7 @@ Experiment changes to README File
 =======
 updated again on this branch
 >>>>>>> experimental-test
+
+
+$ cd directory
+$ git add New File Added
